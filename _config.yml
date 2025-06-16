@@ -1,0 +1,6 @@
+remote_theme: pages-themes/Cayman
+plugins:
+  - jekyll-remote-theme
+title: "Nothing-But-Net"
+description: "By Kaelem Bent & Md Shad – A Smart Hoop That Counts, Beeps & Blinks Every Make!"
+show_downloads: false
